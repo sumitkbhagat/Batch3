@@ -1,4 +1,2 @@
-this is feature is from dev-1
+this is feature is from thik
  this is added new feature
-
-this added wrong file
